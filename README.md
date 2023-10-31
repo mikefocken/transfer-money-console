@@ -1,2 +1,1 @@
-# transfer-money-console
-C# console application lab for money transfers
+# MoneyTransfer_FSF_CSharp_Starter
